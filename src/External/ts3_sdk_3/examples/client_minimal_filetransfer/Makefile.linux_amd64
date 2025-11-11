@@ -1,0 +1,20 @@
+#
+# Makefile to build TeamSpeak 3 SDK Client Minimal Filetransfer Sample on Linux
+#
+
+CFLAGS = -Wall -g -O0
+
+all: libs ts3_client_minimal_sample_filetransfer
+
+libs: ../../bin/libts3client_linux_amd64.so
+	ln -sf ../../bin/libts3client_linux_amd64.so .
+
+ts3_client_minimal_sample_filetransfer: main.o
+	gcc -o ts3_client_minimal_sample_filetransfer main.o -Wl,-rpath,"." -L../../bin -lts3client_linux_amd64
+	cp ts3_client_minimal_sample_filetransfer ../../bin
+
+main.o: main.c
+	gcc -c -I../../include main.c $(CFLAGS)
+
+clean:
+	rm -rf *.o ts3_client_minimal_sample_filetransfer

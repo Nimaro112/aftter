@@ -1,0 +1,18 @@
+#
+# Makefile to build TeamSpeak 3 SDK Client Minimal Filetransfer Sample on Mac OS X
+#
+
+CFLAGS = -Wall -g -O0
+
+all: ts3_client_minimal_sample_filetransfer
+
+ts3_client_minimal_sample_filetransfer: main.o
+	gcc -o ts3_client_minimal_sample_filetransfer main.o -L../../bin -lts3client_mac
+	cp ts3_client_minimal_sample_filetransfer ../../bin
+	install_name_tool -change /usr/local/lib/libts3client_mac.dylib ../../bin/libts3client_mac.dylib ts3_client_minimal_sample_filetransfer
+
+main.o: main.c
+	gcc -c -I../../include main.c $(CFLAGS)
+
+clean:
+	rm -rf *.o ts3_client_minimal_sample_filetransfer

@@ -1,0 +1,114 @@
+<projectDescription>
+  <id>1342808802758</id>
+  <name>WarZ</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/pavel/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/pavel/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///D|/FlashExternalWarZ/src/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="HUD.as">file:///D|/FlashExternalWarZ/src/classes/warz/hud/HUD.as</uri>
+    <uri label="WarZ_HUD.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD.fla</uri>
+    <uri label="HUDDebug.as">file:///D|/FlashExternalWarZ/src/classes/warz/hud/HUDDebug.as</uri>
+    <uri label="FrontEnd.fla">file:///D|/FlashExternalWarZ/src/FrontEnd.fla</uri>
+    <uri label="inventory.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/inventory.as</uri>
+    <uri label="WarZ_HUD_menu.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_menu.fla</uri>
+    <uri label="main.as">file:///D|/FlashExternalWarZ/src/classes/warz/hud/main.as</uri>
+    <uri label="options.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/options.as</uri>
+    <uri label="OptionsGeneral.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/OptionsGeneral.as</uri>
+    <uri label="MarketplaceScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/MarketplaceScreen.as</uri>
+    <uri label="Frontend.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/Frontend.as</uri>
+    <uri label="Inventory.as">file:///D|/FlashExternalWarZ/src/classes/warz/vault/Inventory.as</uri>
+    <uri label="vault.as">file:///D|/FlashExternalWarZ/src/classes/warz/vault/vault.as</uri>
+    <uri label="MarketplaceScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/marketplace/MarketplaceScreen.as</uri>
+    <uri label="TradeScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/trade/TradeScreen.as</uri>
+    <uri label="HUDEvents.as">file:///D|/FlashExternalWarZ/src/classes/warz/events/HUDEvents.as</uri>
+    <uri label="main.as">file:///D|/FlashExternalWarZ/src/classes/warz/pickupUi/main.as</uri>
+    <uri label="PickupUI.as">file:///D|/FlashExternalWarZ/src/classes/warz/pickupUi/PickupUI.as</uri>
+    <uri label="WarZ_HUD_PickupUI.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_PickupUI.fla</uri>
+    <uri label="SurvivorsScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/SurvivorsScreen.as</uri>
+    <uri label="msgBox.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/msgBox.as</uri>
+    <uri label="pauseDebug.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/pauseDebug.as</uri>
+    <uri label="pause.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/pause.as</uri>
+    <uri label="missions.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/missions.as</uri>
+    <uri label="Main.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/Main.as</uri>
+    <uri label="InventoryScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/InventoryScreen.as</uri>
+    <uri label="FrontEndEvents.as">file:///D|/FlashExternalWarZ/src/classes/warz/events/FrontEndEvents.as</uri>
+    <uri label="FrontendDebug.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/FrontendDebug.as</uri>
+    <uri label="MyServersScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/MyServersScreen.as</uri>
+    <uri label="RentServerPopUp.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/RentServerPopUp.as</uri>
+    <uri label="BrowseGamesScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/BrowseGamesScreen.as</uri>
+    <uri label="Survivor.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/Survivor.as</uri>
+    <uri label="CraftScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/craft/CraftScreen.as</uri>
+    <uri label="craftDebug.as">file:///D|/FlashExternalWarZ/src/classes/warz/craft/craftDebug.as</uri>
+    <uri label="craft.as">file:///D|/FlashExternalWarZ/src/classes/warz/craft/craft.as</uri>
+    <uri label="WarZ_HUD_CraftingMenu.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_CraftingMenu.fla</uri>
+    <uri label="MyClanAdminScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/MyClanAdminScreen.as</uri>
+    <uri label="MyClanScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/MyClanScreen.as</uri>
+    <uri label="DonateServerPopUp.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/DonateServerPopUp.as</uri>
+    <uri label="PurchaseGCPopUp.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/PurchaseGCPopUp.as</uri>
+    <uri label="PauseEvents.as">file:///D|/FlashExternalWarZ/src/classes/warz/events/PauseEvents.as</uri>
+    <uri label="PickupUIDebug.as">file:///D|/FlashExternalWarZ/src/classes/warz/pickupUi/PickupUIDebug.as</uri>
+    <uri label="map.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/map.as</uri>
+    <uri label="WarZ_HUD_trade.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_trade.fla</uri>
+    <uri label="main.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/main.as</uri>
+    <uri label="Market.as">file:///D|/FlashExternalWarZ/src/classes/warz/marketplace/Market.as</uri>
+    <uri label="WarZ_HUD_GeneralStore.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_GeneralStore.fla</uri>
+    <uri label="Item.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/Item.as</uri>
+    <uri label="Backpack.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/Backpack.as</uri>
+    <uri label="font_en.fla">file:///D|/FlashExternalWarZ/src/font_en.fla</uri>
+    <uri label="repair.as">file:///D|/FlashExternalWarZ/src/classes/warz/repair/repair.as</uri>
+    <uri label="Inventory.as">file:///D|/FlashExternalWarZ/src/classes/warz/repair/Inventory.as</uri>
+    <uri label="WarZ_HUD_RepairBench.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_RepairBench.fla</uri>
+    <uri label="ClanScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/ClanScreen.as</uri>
+    <uri label="LeaderboardScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/LeaderboardScreen.as</uri>
+    <uri label="PlayChannelsScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/PlayChannelsScreen.as</uri>
+    <uri label="BackpackItem.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/BackpackItem.as</uri>
+    <uri label="WarZ_HUD_PostOffice.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_PostOffice.fla</uri>
+    <uri label="WarZ_HUD_Safelock.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_Safelock.fla</uri>
+    <uri label="trade.as">file:///D|/FlashExternalWarZ/src/classes/warz/trade/trade.as</uri>
+    <uri label="tradeDebug.as">file:///D|/FlashExternalWarZ/src/classes/warz/trade/tradeDebug.as</uri>
+    <uri label="msgBox.as">file:///D|/FlashExternalWarZ/src/classes/warz/trade/msgBox.as</uri>
+    <uri label="Inventory.as">file:///D|/FlashExternalWarZ/src/classes/warz/safelock/Inventory.as</uri>
+    <uri label="SafelockEvents.as">file:///D|/FlashExternalWarZ/src/classes/warz/events/SafelockEvents.as</uri>
+    <uri label="safelock.as">file:///D|/FlashExternalWarZ/src/classes/warz/safelock/safelock.as</uri>
+    <uri label="TradeEvents.as">file:///D|/FlashExternalWarZ/src/classes/warz/events/TradeEvents.as</uri>
+    <uri label="CreateSurvivorScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/CreateSurvivorScreen.as</uri>
+    <uri label="LoadingScreen.fla">file:///D|/FlashExternalWarZ/src/LoadingScreen.fla</uri>
+    <uri label="PlayGameQuickScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/PlayGameQuickScreen.as</uri>
+    <uri label="OptionsLang.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/OptionsLang.as</uri>
+    <uri label="OptionsControl.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/OptionsControl.as</uri>
+    <uri label="Hero.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/Hero.as</uri>
+    <uri label="msgBox.as">file:///D|/FlashExternalWarZ/src/classes/warz/safelock/msgBox.as</uri>
+    <uri label="msgBox.as">file:///D|/FlashExternalWarZ/src/classes/warz/vault/msgBox.as</uri>
+    <uri label="MainMenu.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/MainMenu.as</uri>
+    <uri label="WarZ_HUD_max.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_max.fla</uri>
+    <uri label="charPopup.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/charPopup.as</uri>
+    <uri label="PlayGameScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/PlayGameScreen.as</uri>
+    <uri label="SkillTreeScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/SkillTreeScreen.as</uri>
+    <uri label="attachmentIcon.as">file:///D|/FlashExternalWarZ/src/classes/warz/attachments/attachmentIcon.as</uri>
+    <uri label="main.as">file:///D|/FlashExternalWarZ/src/classes/warz/attachments/main.as</uri>
+    <uri label="attachments.as">file:///D|/FlashExternalWarZ/src/classes/warz/attachments/attachments.as</uri>
+    <uri label="WarZ_HUD_AttachUI.fla">file:///D|/FlashExternalWarZ/src/WarZ_HUD_AttachUI.fla</uri>
+    <uri label="PopUpEarlyRevival.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/PopUpEarlyRevival.as</uri>
+    <uri label="changeBackpack.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/changeBackpack.as</uri>
+    <uri label="LoadingScreenEvents.as">file:///D|/FlashExternalWarZ/src/classes/warz/events/LoadingScreenEvents.as</uri>
+    <uri label="CreateClanScreen.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/CreateClanScreen.as</uri>
+    <uri label="community.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/community.as</uri>
+    <uri label="Utils.as">file:///D|/FlashExternalWarZ/src/classes/warz/Utils.as</uri>
+    <uri label="mainMenu.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/mainMenu.as</uri>
+    <uri label="PopupClanInvite.as">file:///D|/FlashExternalWarZ/src/classes/warz/frontend/PopupClanInvite.as</uri>
+    <uri label="ImageLoader.as">file:///D|/FlashExternalWarZ/src/classes/warz/utils/ImageLoader.as</uri>
+    <uri label="ClanInfo.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/ClanInfo.as</uri>
+    <uri label="msgBox.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/msgBox.as</uri>
+    <uri label="changeBackpack.as">file:///D|/FlashExternalWarZ/src/classes/warz/pause/changeBackpack.as</uri>
+    <uri label="InventoryItem.as">file:///D|/FlashExternalWarZ/src/classes/warz/dataObjects/InventoryItem.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
